@@ -36,7 +36,7 @@ Include screenshots from the Power BI dashboard:
 
 ## Files in This Project
 - Insurance_Analysis.pbix (Power BI file)  
-- data/insurance_data.csv (dataset if allowed)  
+- data/insurance_data.xlsx  
 - images/ (dashboard screenshots)  
 
 ## Author
